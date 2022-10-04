@@ -2,7 +2,7 @@
 id: rmdwp8jljdzo9fami71aake
 title: Photography
 desc: ''
-updated: 1664925548232
+updated: 1664926058997
 created: 1664922385631
 ---
 
@@ -200,7 +200,7 @@ These rocks on a beach show a very simple-to-understand example.
 
 ### Large Depth of Field at f/16
 
-![](/assets/images/(2022-10-04-15-43-17.png)
+![](/assets/images/2022-10-04-16-27-36.png)
 
 ### I Shoot at f/11 for 99% of Photos
 
