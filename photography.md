@@ -2,11 +2,13 @@
 id: rmdwp8jljdzo9fami71aake
 title: Photography
 desc: ''
-updated: 1664924929466
+updated: 1664925548232
 created: 1664922385631
 ---
 
 # Aperture Priority Mode – Best Camera Technique for Landscape Photography 2022
+
+> _None of this content is mine. It's a Markdown version of Dave Morrow's free photography content. Please [visit the original](https://www.davemorrowphotography.com/aperture-priority-mode) for the full fidelity version._
 
 Aperture Priority Mode is the best shooting mode for landscape & outdoor photography.
 
@@ -74,10 +76,10 @@ The amount of light metered from the scene is known as the **Scene Light Value**
 
 ### Common Scene Light Values for Landscapes
 
-Bright Sunny Day, Direct Sunlight: 16
-Sunset: 11-13
-Twilight: 2 to 8
-Milky Way & Night Sky: -11 to -7
+- Bright Sunny Day, Direct Sunlight: 16
+- Sunset: 11-13
+- Twilight: 2 to 8
+- Milky Way & Night Sky: -11 to -7
 
 ### Settings Light Value
 
