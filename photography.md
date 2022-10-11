@@ -2,7 +2,7 @@
 id: rmdwp8jljdzo9fami71aake
 title: Photography
 desc: ''
-updated: 1664926058997
+updated: 1664951624174
 created: 1664922385631
 ---
 
@@ -359,3 +359,71 @@ Get in the habit of doing this for every shot and you’ll never come home disap
 If you failed any steps in the image review, adjust the settings and take another shot.
 
 If you passed all steps, then you’re good to go!
+
+---
+
+# Back Button Focus – Sharp Focus Photography Guide
+
+Have you ever dialed in the focus perfectly, pressed the shutter button, and the focus automatically changed, creating an out-of-focus image?
+
+Using back button focus, you’ll never have this problem again.
+
+Back button focus ensures sharp focus, 100% of the time, ensuring precise control over focus, exposure, shutter speed, ISO, and depth of field, producing higher quality images.
+
+Below, you’ll learn five, step by step, back button focus techniques, for sharp focus in any shooting scenario.
+
+## Table of Contents
+
+- Back Button Focus Video & Camera Technique
+- Back Button Focus – Why You Need It
+- Benefits of Back Button Focus
+- Problems with Shutter Button Autofocus
+- Focal Point & Focal Range Basics
+- The Best Autofocus Settings for Landscape Photography
+- Focus Method 1: Hyperfocal Distance Technique
+- Focus Method 2: One-Third Focal Point
+- Focus Method 3: Direct Center Focal Point
+- Focus Method 4: Single Subject Focal Point
+- Focus Method 5: Focus Stacking & Back Button Focus
+
+## Back Button Focus Video & Camera Technique
+
+[Sharp Focus Camera Technique](https://youtu.be/vQDhOWcy6f0)
+
+### Back Button Focus – Why You Need It
+
+Out of the box, cameras control autofocus using the shutter button, which also takes the image.
+
+When the autofocus button and the shutter button are one and the same, the camera has to guess between two choices. 
+
+Should it:
+
+1. Take the photo?
+2. Focus on the subject?
+
+The camera’s guess is often incorrect leading to out-of-focus images & incorrect settings.
+
+Moving the autofocus button to the back of the camera removes this guesswork giving the photographer complete control & sharper images on a consistent basis.
+
+Now, the photographer can control focus with a single button and take the image with a single button.
+
+### Benefits of Back Button Focus
+
+Each important camera setting should be controlled by a single button, no more.
+
+This way the camera never has to guess why you’re pushing a specific button.
+
+Here are the main benefits of back button focus. Each is described in more detail lower on this page.
+
+1. Photographer has complete control of focal point location and focus prior to taking the image.
+Photographer has complete control over metering prior to taking the image.
+Photographer has complete control over exposure triangle settings prior to taking the image.
+The camera never guesses what the photographer wants.
+Photographer has complete control over the camera & lens.
+When the photographer wants to focus, they press the back button.
+
+When the photographer wants to capture an image, they press the shutter button.
+
+It’s that simple.
+
+Let’s discuss…
